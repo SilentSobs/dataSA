@@ -30,8 +30,7 @@ int Sum(int a, int b)
   else
     return a + b;
 }
-```
-```
+
 int main()
 {
   // नंबर्स इनिटियलाइज करें
